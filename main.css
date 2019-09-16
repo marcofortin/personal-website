@@ -177,3 +177,12 @@ html, body {
 .m-t-50{
     margin-top: 50px;
 }
+
+/*link*/
+a:link, a:visited {
+    color: #595959;
+}
+
+a:hover, a:active {
+    color: #a6a6a6;
+}
