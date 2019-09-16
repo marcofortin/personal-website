@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1971cb4f-3741-4b1b-8b89-91e0a6074bc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/E-motion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/EmotionLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/HackTheNorth.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/EmotionLogo.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +55,7 @@
       <workItem from="1547853062134" duration="2696000" />
       <workItem from="1547855836234" duration="356000" />
       <workItem from="1547857272955" duration="15000" />
-      <workItem from="1568594660943" duration="3727000" />
+      <workItem from="1568594660943" duration="3853000" />
     </task>
     <servers />
   </component>
