@@ -83,8 +83,8 @@ html, body {
 
 /*My Description*/
 
-/*Optimo pictures*/
-#optimoPic img{
+/*Project pictures*/
+#projectPic img{
     border-radius: 10px;
     box-shadow: 0 10px 6px 0 rgba(0, 0, 0, 0.2), 0 15px 20px 0 rgba(0, 0, 0, 0.19);
 
@@ -158,4 +158,22 @@ html, body {
 /*email*/
 .myEmail {
     width: 55px;
+}
+
+/*Custom classes*/
+
+.border-black{
+    border-color: #a6a6a6;
+    opacity: 0.4;
+}
+
+/*margins*/
+.m-b-100{
+    margin-bottom: 100px;
+}
+.m-t-100{
+     margin-top: 100px;
+}
+.m-t-50{
+    margin-top: 50px;
 }
