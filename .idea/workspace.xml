@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1971cb4f-3741-4b1b-8b89-91e0a6074bc1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/MarcoFortinResume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/res/MarcoFortinResume.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,7 +63,11 @@
       <workItem from="1596910462545" duration="412000" />
       <workItem from="1601850710839" duration="612000" />
       <workItem from="1601934361370" duration="97000" />
-      <workItem from="1608649071106" duration="139000" />
+      <workItem from="1608649071106" duration="227000" />
+      <workItem from="1613157762865" duration="988000" />
+      <workItem from="1613758973210" duration="174000" />
+      <workItem from="1613762092914" duration="4599000" />
+      <workItem from="1613780429070" duration="301000" />
     </task>
     <servers />
   </component>
